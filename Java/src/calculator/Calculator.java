@@ -24,5 +24,4 @@ public class Calculator{
         System.out.println("The multiplication is: " + multiply);
         return multiply;
     }
-    // im a software engineer
 }
